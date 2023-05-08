@@ -10,21 +10,22 @@ sites:
     url: https://personal.affinitycu.ca/
     icon: https://personal.affinitycu.ca/favicon.ico
   - name: Ovation SAM
-    url: https://red-bay-0fa647710.1.azurestaticapps.net
+    url: https://acu-service-status.azurewebsites.net/api/Heartbeat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ServiceStatus
-  introTitle: "Service Status Page"
-  introMessage: This is a sample status page which uses real-time
+  name: Service Status
+  introTitle: "Core Service Status"
+  introMessage: Note: Services are updated every five minutes. Page may need to be refreshed
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+        
+  i18n:
+  footer: Version 0.1
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
