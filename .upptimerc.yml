@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
   introTitle: "Core Service Status"
-  introMessage: Note: Services are updated every five minutes. Page may need to be refreshed
+  introMessage: Services are updated every five minutes. Page may need to be refreshed
   navbar:
     - title: Status
       href: /
