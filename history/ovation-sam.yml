@@ -1,7 +1,7 @@
 url: https://acu-service-status.azurewebsites.net/api/Heartbeat
-status: up
-code: 200
-responseTime: 199
-lastUpdated: 2023-05-08T22:12:20.108Z
+status: down
+code: 404
+responseTime: 197
+lastUpdated: 2023-05-08T22:24:36.593Z
 startTime: Mon May 08 2023 21:04:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
