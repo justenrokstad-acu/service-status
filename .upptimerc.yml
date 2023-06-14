@@ -3,12 +3,6 @@ owner: justenrokstad-acu # Your GitHub organization or username, where this repo
 repo: service-status # The name of this repository
 
 sites:
-  - name: Affinity Public Website
-    url: https://www.affinitycu.ca
-    icon: https://www.google.com/favicon.ico
-  - name: Retail Online Banking
-    url: https://personal.affinitycu.ca/
-    icon: https://personal.affinitycu.ca/favicon.ico
   - name: Ovation SAM
     url: https://acu-service-status.azurewebsites.net/api/Heartbeat
 
