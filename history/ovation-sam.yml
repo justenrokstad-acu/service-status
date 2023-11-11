@@ -1,7 +1,7 @@
 url: https://acu-service-status.azurewebsites.net/api/Heartbeat
 status: up
 code: 200
-responseTime: 768
-lastUpdated: 2023-11-10T23:08:28.376Z
+responseTime: 893
+lastUpdated: 2023-11-11T23:08:27.414Z
 startTime: 2023-05-08T21:04:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
